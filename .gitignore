@@ -5,6 +5,7 @@
 .classpath
 bin/
 .settings/
+FenXing/
 # Log file
 *.log
 
